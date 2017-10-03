@@ -1,0 +1,64 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="laperezossa.com" resolutions="1x" timestamp="1507007392029">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="73899195" ref="index"/>
+    <file name="nomq_index.css" crc="4087179430" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u609.php" crc="62801892" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="jean-city-downtown-stands.jpg" crc="4187813696" seo="true" ref="index"/>
+    <file name="logonegro475px.png" crc="4170727834" seo="true" ref="index"/>
+    <file name="u613-17.png" crc="4292897703" ref="index"/>
+    <file name="u613-17-r.png" crc="325416089" ref="index"/>
+    <file name="u613-17-m.png" crc="3766418497" ref="index"/>
+    <file name="u613-17-fs.png" crc="3787196002" ref="index"/>
+    <file name="u613-172.png" crc="4292897703" ref="index"/>
+    <file name="u613-17-r2.png" crc="325416089" ref="index"/>
+    <file name="u613-17-m2.png" crc="3766418497" ref="index"/>
+    <file name="u613-17-fs2.png" crc="3787196002" ref="index"/>
+    <file name="u613-173.png" crc="4292897703" ref="index"/>
+    <file name="u613-17-r3.png" crc="325416089" ref="index"/>
+    <file name="u613-17-m3.png" crc="3766418497" ref="index"/>
+    <file name="u613-17-fs3.png" crc="3787196002" ref="index"/>
+    <file name="u613-174.png" crc="4292897703" ref="index"/>
+    <file name="u613-17-r4.png" crc="325416089" ref="index"/>
+    <file name="u613-17-m4.png" crc="3766418497" ref="index"/>
+    <file name="u613-17-fs4.png" crc="3787196002" ref="index"/>
+    <file name="u613-175.png" crc="4292897703" ref="index"/>
+    <file name="u613-17-r5.png" crc="325416089" ref="index"/>
+    <file name="u613-17-m5.png" crc="3766418497" ref="index"/>
+    <file name="u613-17-fs5.png" crc="3787196002" ref="index"/>
+    <file name="u613-176.png" crc="4055772671" ref="index"/>
+    <file name="u613-17-r6.png" crc="182424942" ref="index"/>
+    <file name="u613-17-m6.png" crc="451439798" ref="index"/>
+    <file name="u613-17-fs6.png" crc="3843785492" ref="index"/>
+    <file name="u613-177.png" crc="391137048" ref="index"/>
+    <file name="u613-17-r7.png" crc="356840152" ref="index"/>
+    <file name="u613-17-m7.png" crc="4011539017" ref="index"/>
+    <file name="u613-17-fs7.png" crc="4269088006" ref="index"/>
+    <file name="u613-178.png" crc="4292897703" ref="index"/>
+    <file name="u613-17-r8.png" crc="325416089" ref="index"/>
+    <file name="u613-17-m8.png" crc="3766418497" ref="index"/>
+    <file name="u613-17-fs8.png" crc="3787196002" ref="index"/>
+    <file name="u613-179.png" crc="273985658" ref="index"/>
+    <file name="u613-17-r9.png" crc="477894600" ref="index"/>
+    <file name="u613-17-m9.png" crc="5385143" ref="index"/>
+    <file name="u613-17-fs9.png" crc="410570893" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4279637314" seo="true" mt="1507007290980" redirect="true"/>
+</manifest>
