@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="laperezossa.com" resolutions="1x" timestamp="1507007392029">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="laperezossa.com" resolutions="1x" timestamp="1507008712490">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="73899195" ref="index"/>
-    <file name="nomq_index.css" crc="4087179430" ref="index"/>
+    <file name="index.css" crc="398750991" ref="index"/>
+    <file name="nomq_index.css" crc="4268206030" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -60,5 +60,5 @@
     <file name="u613-17-fs9.png" crc="410570893" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4279637314" seo="true" mt="1507007290980" redirect="true"/>
+  <file name="index.html" crc="534595329" seo="true" mt="1507008627633" redirect="true"/>
 </manifest>
